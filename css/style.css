@@ -249,6 +249,10 @@ body {
     display: none;
 }
 
+.js .js-accordion dt{
+    cursor: pointer;
+}
+
 .js .js-accordion dt:after{
     content: "↴";
     margin-left: 10px;
